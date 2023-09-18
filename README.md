@@ -1,6 +1,6 @@
 Code for identifying influential sequence elements affecting Translational Efficiency in Histoplasma capsulatum and for creating machine learning models to predict protein production.
 <br>
-<br> Paper In Proceedings of International Young Researcher’s Conference Fall 2021. Columbia University, NY. [[Link]](https://past.the-iyrc.org/annika-viswesh.html) (Oral Presentation)
+<br> Paper In Proceedings of International Young Researcher’s Conference Fall 2021. Columbia University, NY. [[Paper]](https://past.the-iyrc.org/annika-viswesh.html) (Oral Presentation)
 
 ---
 
